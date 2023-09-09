@@ -1,2 +1,2 @@
 # BGCLR
-![Alt text](./Screenshots/Green.png)
+![Alt text](./Screenshots/Blue.png)
